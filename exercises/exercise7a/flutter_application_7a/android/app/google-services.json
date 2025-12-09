@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433754529664",
+    "project_id": "yulin-cameraapp",
+    "storage_bucket": "yulin-cameraapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433754529664:android:b0d0d781b3de62901f6b65",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_7a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJwYR65Cn2d3z5tzuAu8WFalA1L9A_HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

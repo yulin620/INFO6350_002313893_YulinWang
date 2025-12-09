@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "773783945856",
+    "project_id": "yulin-hackathon",
+    "storage_bucket": "yulin-hackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773783945856:android:531b0c3a934f3cfd6f1c65",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773783945856-1njo2i6dl3jr1rpdvee87lk4e21v0neg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_hackathon",
+            "certificate_hash": "132ef292e3656a44f55f94fa8f46fc4acfd61eb9"
+          }
+        },
+        {
+          "client_id": "773783945856-1h1r84spbuva30pgok2tsa8q02gc8104.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1wmgVnythug5pexKkRxSUl2a0hPOPqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773783945856-1h1r84spbuva30pgok2tsa8q02gc8104.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773783945856-bcpo8ov5ij0ghe2mkfrruj598543pqmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplicationHackathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

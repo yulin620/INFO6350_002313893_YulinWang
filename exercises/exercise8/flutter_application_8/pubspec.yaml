@@ -1,0 +1,34 @@
+name: flutter_application_8
+description: "Exercise 8 Firebase + Auth + Firestore"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase Core
+  firebase_core: ^2.24.2
+
+  # Authentication
+  firebase_auth: ^4.15.3
+
+  # Firestore Database
+  cloud_firestore: ^4.15.8
+
+  # Google Sign-In (Android only)
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
